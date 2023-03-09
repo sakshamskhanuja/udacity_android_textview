@@ -18,7 +18,7 @@ The application shows a single ```TextView``` with the following updated attribu
 
 ### Screenshots
 
-| Device | Virtual | OS | API | Orientation
-| --- | --- | --- | --- | --- |
-| Pixel 6 Pro | Yes | Android Q | 29 | [Portrait](https://user-images.githubusercontent.com/122201501/223938210-005ac4fc-5c9a-40a8-a863-9869e8e30ff0.png)
-| Pixel 6 Pro | Yes | Android Q | 29 | [Landscape](https://user-images.githubusercontent.com/122201501/223938393-f95424fc-ea52-4f25-9d0b-6413abb9dd3c.png)
+| Device      | Virtual | OS        | API | Orientation                                                                                                         |
+|-------------|---------|-----------|-----|---------------------------------------------------------------------------------------------------------------------|
+| Pixel 6 Pro | Yes     | Android Q | 29  | [Portrait](https://user-images.githubusercontent.com/122201501/223938210-005ac4fc-5c9a-40a8-a863-9869e8e30ff0.png)  |
+| Pixel 6 Pro | Yes     | Android Q | 29  | [Landscape](https://user-images.githubusercontent.com/122201501/223938393-f95424fc-ea52-4f25-9d0b-6413abb9dd3c.png) |
