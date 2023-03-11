@@ -8,11 +8,11 @@ The application shows a single ```TextView``` with the following updated attribu
 <?xml version="1.0" encoding="utf-8"?>
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="150dp"
-    android:layout_height="100dp"
-    android:background="@android:color/darker_gray"
+    android:layout_width="@dimen/width"
+    android:layout_height="@dimen/height"
+    android:background="@color/color_text_background"
     android:text="@string/welcome"
-    android:textColor="@android:color/black"
+    android:textColor="@color/color_text"
     tools:context=".MainActivity" />
 ```
 
